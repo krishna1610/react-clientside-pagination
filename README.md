@@ -58,6 +58,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
+<img width="1672" alt="Screenshot 2023-12-20 at 4 24 24 PM" src="https://github.com/krishna1610/react-clientside-pagination/assets/57579809/8cc6f95f-ba8c-435e-8ea1-ee2e2bddc1d4">
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
